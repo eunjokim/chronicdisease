@@ -1,4 +1,4 @@
 import streamlit as st
 
-st.title('Chronic disease')
+st.title('Chronic Disease')
 st.write('Let's start')
